@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Kumbh Sans', sans-serif;
+    scroll-behavior: smooth;
+  }
+
+  .nav{
+      background-color: rgb(124, 47, 90);
+      padding: 2ch;
+  }
+
+  .nav-link{
+      font-size: 3ch;
+      color: white;
+  }
+
+  .input{
+    background-color: rgb(199, 118, 164);
+    height: 250px;
+    width:400px;
+    padding-top:3ch;
+    padding-bottom:1ch;
+    border-radius: 2ch;
+}
+
+.body{
+    background-image: url("image7.jpeg");
+    background-size:cover;
+    background-repeat: no-repeat;
+}

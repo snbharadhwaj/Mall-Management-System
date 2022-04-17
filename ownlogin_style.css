@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Kumbh Sans', sans-serif;
+    scroll-behavior: smooth;
+  }
+
+  .admin{
+      background-color: rgb(71, 143, 113);
+      padding: 3ch;
+      color: white;
+  }
+
+  .login_box{
+      background-color: rgb(71, 143, 113);
+      width: 500px;
+      border-style: inherit;
+      border-radius: 1.5ch;
+  }
+
+  

@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Kumbh Sans', sans-serif;
+    scroll-behavior: smooth;
+  }
+
+  .nav{
+      background-color: rgb(71, 143, 113);
+      padding: 2ch;
+  }
+
+  .nav-link{
+      font-size: 3ch;
+      color: white;
+  }
+
+  .body{
+    background-image: url("image6.jpeg");
+    background-size:cover;
+    background-repeat: no-repeat;
+}

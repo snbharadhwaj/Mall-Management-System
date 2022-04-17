@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Kumbh Sans', sans-serif;
+    scroll-behavior: smooth;
+  }
+
+.nav{
+    background-color: rgb(27, 228, 235);
+    padding: 3ch;
+}
+
+.nav-link{
+    font-size: 3ch;
+    color: white;
+}
+
+.card{
+    background-color: rgb(27, 194, 216);
+    width: 300px;
+}
+
+.shopowner_class{
+    background-image: url("image5.jpeg");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
